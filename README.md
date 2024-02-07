@@ -12,7 +12,7 @@ width="400px">
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [akshay-chaulya](akshay-chaulya)
+- 👨‍💻 All of my projects are available at [[akshay-chaulya](https://github.com/akshay-chaulya/)]
 
 - 💬 Ask me about **HTM, CSS, JS, PHP, Git Bash,**
 
