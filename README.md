@@ -1,4 +1,4 @@
-/* ![logo](https://github.com/akshay-chaulya/akshay-chaulya/blob/main/user-default.webp) */
+
 
 <h1 align="center">Hi 👋, I'm Akshay Chaulya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
