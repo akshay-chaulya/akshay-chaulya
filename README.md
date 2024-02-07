@@ -1,3 +1,4 @@
+/* ![logo](https://github.com/akshay-chaulya/akshay-chaulya/blob/main/user-default.webp) */
 
 <h1 align="center">Hi 👋, I'm Akshay Chaulya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -20,8 +21,8 @@ width="400px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshay_chaulya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshay_chaulya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshay chaulya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay chaulya" height="30" width="40" /></a>
-<a href="https://instagram.com/akshay chaylya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay chaylya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshay-chaulya-5674552b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay chaulya" height="30" width="40" /></a>
+<a href="https://www.instagram.com/akshay_chaulya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshay chaylya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
