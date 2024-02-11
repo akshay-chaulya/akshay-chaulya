@@ -14,7 +14,7 @@ width="400px">
 
 - 👨‍💻 All of my projects are available at [akshay-chaulya](https://github.com/akshay-chaulya/)
 
-- 💬 Ask me about **HTM, CSS, JS, PHP, Git Bash,**
+- 💬 Ask me about **HTM, CSS, JS, PHP, Git Bash, GIT, Tailwindcss**
 
 - 📫 How to reach me **akshaychaulya09@gmail.com**
 
