@@ -50,16 +50,16 @@ width="400px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Wk_mcFmr5VsIqWBGpVuYb-hgK0uSiySJuw&s" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRntoWjZ62js93sAqbdA8BfN1fXoPGVh9dVvQ&s" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1" alt="express" width="40" height="40"/>
   </a>
   <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/D5612AQFpmEuUD9ls-g/article-cover_image-shrink_600_2000/0/1691332231032?e=2147483647&v=beta&t=REnQuPjkWQ6BL3OkXiMRQlRt02X5SY9vNrvUG7P1GFs" alt="mongoose" width="40" height="40"/>
   </a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png" alt="jwt" width="40" height="40"/>
