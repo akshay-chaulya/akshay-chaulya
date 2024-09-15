@@ -14,7 +14,7 @@ width="400px">
 
 - 👨‍💻 All of my projects are available at [akshay-chaulya](https://github.com/akshay-chaulya/)
 
-- 💬 Ask me about **HTM, CSS, JS, Tailwindcss, PHP, React.js, Node.js, MongoDB, Express.js, JWT, Zod, Git Bash, GIT**
+- 💬 Ask me about **HTM, CSS, JavaScript(ES6+), Bootstrap, Tailwindcss, PHP, React.js,  ReduxJS/Redux Toolkit, Query, Axios, Node.js, MongoDB, Express.js, Mongoose, JWT, Zod, Git Bash, GIT**
 
 - 📫 How to reach me **akshaychaulya09@gmail.com**
 
