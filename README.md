@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/09e8957d-e53a-401d-86f7-b80cf0350ab3)
-
 <h1 align="center">Hi 👋, I'm Akshay Chaulya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
