@@ -49,7 +49,7 @@ width="400px">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/18190902/112935690-79b0e880-90e3-11eb-9172-859f5dc3b86c.png" alt="axios" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -64,7 +64,7 @@ width="400px">
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
   </a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="jwt" width="40" height="40"/>
+    <img src="https://auth0.com/images/jwt/jwt-icon.svg" alt="jwt" width="40" height="40"/>
   </a>
   <a href="https://zod.dev/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/66828207?s=200&v=4" alt="zod" width="40" height="40"/>
@@ -73,9 +73,10 @@ width="400px">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://gitforwindows.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/git-for-windows/git/master/Resources/git-bash.ico" alt="gitbash" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="gitbash" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshay-chaulya&show_icons=true&locale=en&layout=compact" alt="akshay-chaulya" /></p>
