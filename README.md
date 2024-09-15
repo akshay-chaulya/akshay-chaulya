@@ -64,7 +64,7 @@ width="400px">
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
   </a>
   <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1000/1*9pWUdYPAwCQoWdEnvZli4A.jpeg" alt="jwt" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png" alt="jwt" width="40" height="40"/>
   </a>
   <a href="https://zod.dev/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/66828207?s=200&v=4" alt="zod" width="40" height="40"/>
