@@ -71,7 +71,7 @@ width="400px">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://gitforwindows.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" alt="gitbash" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEhuQZklbK0-XpvaT_i77UHiSHZsROwSzFGg&s" alt="gitbash" width="40" height="40"/>
   </a>
 </p>
 
