@@ -45,13 +45,9 @@ width="400px">
   </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
-  <div style="background-color: white; padding: 5px; border-radius: 5px; display: inline-block;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40"/>
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Wk_mcFmr5VsIqWBGpVuYb-hgK0uSiySJuw&s" alt="nodejs" width="40" height="40"/>
   </a>
