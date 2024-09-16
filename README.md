@@ -8,7 +8,7 @@ width="400px">
 
 <p align="left"> <a href="https://twitter.com/akshay_chaulya" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_chaulya?logo=twitter&style=for-the-badge" alt="akshay_chaulya" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Backend using Node.js, Express.js, MongoDB**
+- 🌱 I’m currently learning **Web Development in more detail, focusing on both front-end and back-end technologies to understand the entire process of building and maintaining websites and web applications.*
 
 - 👨‍💻 All of my projects are available at [akshay-chaulya](https://github.com/akshay-chaulya/)
 
