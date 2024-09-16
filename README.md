@@ -58,8 +58,9 @@ width="400px">
   </a>
   <!-- Express.js -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 5px;"/>
+</a>
+
   <!-- Mongoose -->
   <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="mongoose" width="40" height="40"/>
