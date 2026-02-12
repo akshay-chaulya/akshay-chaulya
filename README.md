@@ -14,7 +14,7 @@ width="400px">
 
 - 💬 Ask me about **HTM, CSS, JavaScript(ES6+), Bootstrap, Tailwindcss, PHP, React.js,  ReduxJS/Redux Toolkit, Query, Axios, Node.js, MongoDB, Express.js, Mongoose, JWT, Zod, Git Bash, GIT**
 
-- 📫 How to reach me **akshaychaulya09@gmail.com**
+- 📫 How to reach me **akshaychaulya.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
